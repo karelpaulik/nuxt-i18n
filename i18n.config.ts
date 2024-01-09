@@ -4,15 +4,18 @@ export default defineI18nConfig(() => ({
     messages: {
       en: {
         welcome: 'Welcome',
-        sayhallo: 'Byby'
+        sayhallo: 'By by',
+        state: 'Czech republic'
       },
       fr: {
         welcome: 'Bienvenue',
-        sayhallo: 'Biiiii'
+        sayhallo: 'Biiiii',
+        state: 'Czecho republico'
       },
       cz: {
         welcome: 'Ahoj všem',
-        sayhallo: 'Nashle'
+        sayhallo: 'Nashle',
+        state: 'Česká republika'
 
       }
     }

@@ -3,6 +3,6 @@
     <address>
         Křenová 123<br>
         620 00 Brno<br>
-        Česká republika<br>
+        <p>{{ $t('state') }}</p>
     </address>
 </template>
